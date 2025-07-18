@@ -1,2 +1,3 @@
 *.bkp
 printer-*_*.cfg
+.commitronrc
