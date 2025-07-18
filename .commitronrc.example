@@ -1,3 +1,6 @@
+# Configuration for Commitron - automatic config git
+# @see https://github.com/stiliajohny/commitron
+
 # AI provider configuration
 ai:
   provider: openai
