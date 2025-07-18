@@ -1,0 +1,20 @@
+# AI provider configuration
+ai:
+  provider: openai
+  api_key: CHANGEME
+
+# Commit message configuration
+commit:
+  convention: conventional
+  include_body: true
+  max_length: 72
+
+# Context settings for AI
+context:
+  include_file_names: true
+  include_diff: true
+  max_context_length: 4000
+
+ui:
+  confirm_commit: false
+  enable_tui: false
